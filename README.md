@@ -26,11 +26,6 @@ This file mainly states about my github repos, both as a useful guide in case yo
 - I'm the author of [Easer](https://github.com/renyuneyun/Easer), a user-defined explicit automation app for Android, similar to Tasker. It was a leasure development since my Masters.
   - I believe the next step is (corss-platform) inter-device federation for it (contrary to centralized smart-home). Unfortunately I do not have enough time to maintain it now; Android is also making it hard to function correctly nowadays.
 
-<details>
-  <summary>
-    More about my repos
-  </summary>
-  
 ### Projects / Main repos
 
 - For Android
@@ -49,4 +44,3 @@ This file mainly states about my github repos, both as a useful guide in case yo
 - Other
   - [argos-oos-filter](https://github.com/renyuneyun/argos-oos-filter): Argos Out-Of-Stock Filter (Greasemonkey UserScript) 
   - [pelican-interrefs](https://github.com/renyuneyun/pelican-interrefs): Pelican plugin to obtain inter-references of each article **within** your Pelican site.
-</details>
