@@ -22,7 +22,7 @@ Please see [my portfolio](https://me.ryey.icu) for more information about **me**
 
 - Some of my research outputs are open-source under my [GitHub](https://github.com/renyuneyun/) and [GitLab](https://gitlab.com/renyuneyun/) accounts, and [OxfordHCC](https://github.com/OxfordHCC/).
 - I'm releasing some libraries or utilities for [SoLiD (Social Linked Data)](https://solidproject.org/), as needed by myself.
-  - SoLid is [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)'s fix for de-decentralizing the WWW; Web 3.0 for W3C (no, it's NOT Web3; also see [my blog post (in Chinese)](https://blog.ryey.icu/on-web-3-0-and-web-3.html)).
+  - SoLid is [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)'s fix for de-decentralizing the WWW; Web 3.0 for W3C (no, it's NOT Web3 in terms of blockchain; also see [my blog post (in Chinese)](https://blog.ryey.icu/on-web-3-0-and-web-3.html)).
 - I'm the author of [Easer](https://github.com/renyuneyun/Easer), a user-defined explicit automation app for Android, similar to Tasker. It was a leasure development since my Masters.
   - I believe the next step is (corss-platform) inter-device federation for it (contrary to centralized smart-home).
   - Unfortunately I do not have enough time to maintain it now; Android is also making it hard to function correctly nowadays.
